@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+Header{
+    color:black;
+    text-align:center;
+    background:orange;
+    height:90px;
+    margin: 20px 0;
+    font-size: 1.75em;
+    font-family: 'Bangers', cursive;
+}
+#inputfield{
+    max-width = 940px;
+    margin: 0 auto;
+    text-align:center;
+    font-size: 1.75em;
+}
+
+#optbuttons{
+	max-width = 940px;
+	text-align:center;
+	margin: 0 auto;
+
+}
+
+footer{
+	max-width = 940px;
+	text-align:center;
+	color:orange;
+	font-size: 1.25em;
+	font-family: 'Bangers', cursive;
+
+}
+
